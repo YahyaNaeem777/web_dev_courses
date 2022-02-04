@@ -24,4 +24,4 @@ yarn-error.log*
 
 #hide images folder
 
-./images
+./images*
